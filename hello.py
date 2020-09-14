@@ -1,0 +1,6 @@
+print("hello world")
+print("Line A \nLine B")
+print("this is \\\\ blackslah")
+print("he is \tawesome")
+print("these are /\\ /\\ /\\ /\\ mountains")
+print(" \\\" \\n \\t \\\' ")
